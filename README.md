@@ -6,3 +6,4 @@ Reads all words from .txt, Word, PowerPoint, Excel, and PDF files, allows the us
 
 Virto SharePoint Forms
 - 
+Folder has various JavaScript functions that facilitate user experience and ensure security on Virto SharePoint Forms
